@@ -1,0 +1,19 @@
+{
+  "awards": [{
+      "type": "LOYALTY_POINTS",
+      "awardedAt": "2025-01-01:T00:00:00",
+      "reference": "REFERRAL",
+      "value": {
+        "display": "Referral reward",
+        "amount": "1000"
+      }
+  },{
+      "type": "LOYALTY_POINTS",
+      "awardedAt": "2024-12-01:T00:00:00",
+      "reference": "JOINING_BONUS",
+      "value": {
+        "display": "Joining bonus",
+        "amount": "2500"
+      }
+  }]
+}
