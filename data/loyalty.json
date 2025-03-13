@@ -5,7 +5,7 @@
       "reference": "REFERRAL",
       "value": {
         "display": "Referral reward",
-        "amount": "1000"
+        "amount": 1000
       }
   },{
       "type": "LOYALTY_POINTS",
@@ -13,7 +13,7 @@
       "reference": "JOINING_BONUS",
       "value": {
         "display": "Joining bonus",
-        "amount": "2500"
+        "amount": 2500
       }
   }]
 }
